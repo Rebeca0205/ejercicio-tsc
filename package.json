@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-tsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebeca0205/ejercicio-tsc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebeca0205/ejercicio-tsc/issues"
+  },
+  "homepage": "https://github.com/Rebeca0205/ejercicio-tsc#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
